@@ -68,8 +68,8 @@ The system is designed using microservices that communicate through Kafka. Each 
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <project-directory>
+   git clone https://github.com/YoussefAlkent/ClasScorer-Backend-Microservices
+   cd ClasScorer-Backend-Microservices
 	```
 2. Build and start the containers:
 	```bash
