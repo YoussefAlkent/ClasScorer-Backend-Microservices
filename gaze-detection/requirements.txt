@@ -1,0 +1,6 @@
+fastapi
+torch
+torchvision
+uvicorn
+pillow
+kafka-python

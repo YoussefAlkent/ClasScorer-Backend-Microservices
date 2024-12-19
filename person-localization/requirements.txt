@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+confluent-kafka
+opencv-python-headless
+torch
+ultralytics
+numpy

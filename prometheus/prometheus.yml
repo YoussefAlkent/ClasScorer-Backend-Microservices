@@ -1,0 +1,12 @@
+global:
+  scrape_interval: 5s
+
+scrape_configs:
+  - job_name: "docker"
+    static_configs:
+      - targets:
+          - "localization:8001"
+          - "detection:8002"
+          - "gaze:8003"
+          - "hand_raising:8004"
+          - "storage_proxy:8005"
